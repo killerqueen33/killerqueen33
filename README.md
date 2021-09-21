@@ -2,7 +2,7 @@
 - 👀 I’m interested in game.
 - 🌱 I’m currently learning paython
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me 3281989342@qq.com
 
 <!---
 killerqueen33/killerqueen33 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
